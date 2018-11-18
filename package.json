@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indexTest.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test":
+    "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeCode2018/npm-lab-dc-web-091718.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeCode2018/npm-lab-dc-web-091718/issues"
+  },
+  "homepage": "https://github.com/DeCode2018/npm-lab-dc-web-091718#readme"
+}
